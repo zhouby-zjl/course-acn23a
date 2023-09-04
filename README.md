@@ -68,7 +68,8 @@
 - 10.2 Oral presentation II
   
 ## List of papers to read in each week of the course:
-(Note that the following materials contained are only used for educational purposes. You can download the papers from this github website you are visiting)
+(Note that the following materials contained are only used for educational purposes. 
+You can download the papers from this github website from **[this link](https://github.com/zhouby-zjl/course-acn23a)**)
 
 **Chapter 1:**
 - The design philosophy of the DARPA Internet protocols[C]//Symposium proceedings on Communi-cations architectures and protocols. 1988: 106-114.
