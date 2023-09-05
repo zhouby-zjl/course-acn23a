@@ -54,10 +54,10 @@
 - 7.2 AI-enabled networks
 - 7.3 Deep learning relating to networks
 
-**Chapter 8: Mobile communication networks and their intelligence**
+**Chapter 8: Mobile communication networks and their intelligent applications**
 - 8.1 Overview of mobile communication networks
-- 8.2 Data verification in cecullar networks
-- 8.3 First sight in intelligence of cecullar networks
+- 8.2 Data mining in cecullar networks
+- 8.3 Intelligent management and orchestration in cecullar networks
 
 **Chapter 9: Experiments in networks and data transport**
 - 9.1 Experiments in network interconnections
