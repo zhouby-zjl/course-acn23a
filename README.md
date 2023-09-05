@@ -112,7 +112,12 @@ You can download the papers from this github website from **[this link](https://
 - Intelligent computing: the latest advances, challenges, and future[J]. Intelligent Computing, 2023, 2: 0006.
 
 **Chapter 8:**
-
+- Spatio-temporal compressive sensing and internet traffic matrices[C]//Proceedings of the ACM SIGCOMM 2009 conference on Data communication. 2009: 267-278.
+- Understanding the nature of social mobile instant messaging in cellular networks[J]. IEEE Communications Letters, 2014, 18(3): 389-392.
+- Intelligent 5G: When cellular networks meet artificial intelligence[J]. IEEE Wireless communications, 2017, 24(5): 175-183.
+- Network slicing for 5G: Challenges and opportunities[J]. IEEE Internet Computing, 2017, 21(5): 20-27.
+- Deep reinforcement learning for resource management in network slicing[J]. IEEE Access, 2018, 6: 74429-74441.
+- The stochastic geometry analyses of cellular networks with α-Stable self-similarity[J]. IEEE Transactions on Communications, 2019, 67(3): 2487-2503. 
 
 
 ## Programming Assignments
