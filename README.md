@@ -79,7 +79,10 @@ You can download the papers from this github website from **[this link](https://
 - The ns-3 network simulator[M]//Modeling and tools for network simulation. Springer, Berlin, Heidel-berg, 2010: 15-34.
 
 **Chapter 2:**
-
+- A survey on TCP friendly congestion control [J]. IEEE Network, 2021, 15(3): 28-37.
+- A roadmap for traffic engineering in SDN-OpenFlow networks[J]. Computer Networks, 2014, 71: 1-30.
+- Predictable vFabric on informative data plane[C]//Proceedings of the ACM SIGCOMM 2022 Conference. 2022: 615-632.
+- Traffic engineering in software defined networks: a survey[J]. Journal of Telecommunications and Information Technology, 2016 (4): 3-14.
 
 **Chapter 3:**
 - A clean slate 4D approach to network control and management[J]. ACM SIGCOMM Computer Communication Review, 2005, 35(5): 41-54.
@@ -101,12 +104,15 @@ You can download the papers from this github website from **[this link](https://
 - iPRP—The parallel redundancy protocol for IP networks: Protocol design and operation[J]. IEEE Transactions on Industrial Informatics, 2016, 12(5): 1842-1854.  
 
 **Chapter 6:**
+- Computing power network: A survey[J]. arXiv:2210.06080v2 [cs.NI], 2022.
 
 **Chapter 7:**
+- Applications of deep reinforcement learning in communications and networking: A survey[J]. IEEE Communications Surveys & Tutorials, 2019, 21(4): 3133-3174.
+- Poisoning attacks and countermeasures in intelligent networks: Status quo and prospects[J]. Digital Communications and Networks, 2022, 8(2): 225-234.
+- Intelligent computing: the latest advances, challenges, and future[J]. Intelligent Computing, 2023, 2: 0006.
 
 **Chapter 8:**
 
-**Chapter 9:**
 
 
 ## Programming Assignments
