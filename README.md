@@ -36,7 +36,7 @@
 **Chapter 4: Named-data networks**
 - 4.1 Overall design of named-data networks
 - 4.2 Data naming and security
-  4.3 Applications of named-data networks
+- 4.3 Applications of named-data networks
 - 4.4 Resilient data transport
 
 **Chapter 5: Industrial Internet**
